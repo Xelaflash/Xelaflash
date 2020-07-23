@@ -4,12 +4,12 @@
 <h2 align="center">Hi 👋, I'm Alex</h2>
 <h3 align="center">A web developer from 🌍, working from 🌎</h3>
 <br>
-<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595504201/logo_black_white.png" alt="alex_logo" width="100" height="100"/></p>
+<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595504600/logo_3d_colors.png" alt="alex_logo" width="100" height="100"/></p>
 <br>
 <br>
 
 - 🔭 I’m currently working on **some stuff**
-- 👨•💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com
+- 👨 💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com)
 - 📫 How to reach me **contact@alexgwebdev.com**
 <br>
 
@@ -47,9 +47,9 @@ alt="xelaflash" /> <p>
 <br>
 <p align="center">
  <a href="https://dev.to/xelaflash" target="blank"><img 
- align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev profile" height="50" width="50" /></a>
+ align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev profile" height="45" width="45" /></a>
  <a href="https://linkedin.com/in/alexgwebdev" target="blank"><img align="center" 
- src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="50"/></a>
+ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="40"/></a>
  <a href="https://linkedin.com/in/alexgwebdev" target="blank">
-  <img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503514/Twitter_Logo_Black.png" alt="twitter profile" height="40"  /></a>
+  <img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503514/Twitter_Logo_Black.png" alt="twitter profile" height="33"  /></a>
 </p>
