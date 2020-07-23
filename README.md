@@ -1,9 +1,11 @@
-<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503764/carte_visite_Front.png" alt="alexgwebdev"/></p>
+<p align="center"><img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github" width="420"/></p>
 
 <h1 align="center"> Good Moooorning Github </h1>
 <h2 align="center">Hi 👋, I'm Alex</h2>
 <h3 align="center">A web developer from 🌍, working from 🌎</h3>
-
+<br>
+<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595504201/logo_black_white.png" alt="alex_logo" width="100" height="100"/></p>
+<br>
 <br>
 - 🔭 I’m currently working on **some stuff**
 - 👨•💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com
@@ -49,8 +51,3 @@ alt="xelaflash" /> <p>
  <a href="https://linkedin.com/in/alexgwebdev" target="blank">
   <img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503514/Twitter_Logo_Black.png" alt="twitter profile" height="40"  /></a>
 </p>
-
-<p align="center"><img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github" width="420"/></p>
-
-
-
