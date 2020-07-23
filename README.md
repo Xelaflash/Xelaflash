@@ -3,11 +3,11 @@
 <h2 align="center">Hi 👋, I'm Alex</h2>
 <h3 align="center">A web developer from 🌍, working from 🌎</h3>
 <br>
-- 🔭 I’m currently working on **some stuff**
-
-- 👨‍💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com)
-
-- 📫 How to reach me **contact@alexgwebdev.com**
+<ul>
+ <li>- 🔭 I’m currently working on **some stuff**</li>
+ <li>- 👨•💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com)</li>
+  <li>- 📫 How to reach me **contact@alexgwebdev.com**</li>
+</ul>
 <br>
 <p
  align="center"><img 
