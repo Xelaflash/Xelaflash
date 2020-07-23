@@ -40,17 +40,13 @@ src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xelaflash&show_icons=true"
 alt="xelaflash" /> <p>
 <br>
-<p align="center"> 
-<a
- href="https://dev.to/xelaflash" target="blank"><img 
-align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
- alt="xelaflash" height="50" width="50" /></a>
-<a 
-href="https://linkedin.com/in/alexgwebdev" target="blank"><img 
-align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
- alt="alexgwebdev" height="50" width="50" /></a>
+<p align="center">
+ <a href="https://dev.to/xelaflash" target="blank"><img 
+ align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev profile" height="50" width="50" /></a>
+ <a href="https://linkedin.com/in/alexgwebdev" target="blank"><img align="center" 
+ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin profile" height="50" width="50" /></a>
+ <a href="https://linkedin.com/in/alexgwebdev" target="blank">
+  <img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503514/Twitter_Logo_Black.png" alt="twitter profile" height="50" width="50" /></a>
 </p>
 
 
