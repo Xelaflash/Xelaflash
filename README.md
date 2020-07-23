@@ -7,10 +7,12 @@
 <p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595504201/logo_black_white.png" alt="alex_logo" width="100" height="100"/></p>
 <br>
 <br>
+
 - 🔭 I’m currently working on **some stuff**
 - 👨•💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com
 - 📫 How to reach me **contact@alexgwebdev.com**
 <br>
+
 
 <p
  align="center"><img 
