@@ -1,5 +1,5 @@
 <p align="center"><img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github" width="420"/></p>
-<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503764/carte_visite_Front.png" alt="alexgwebdev" height="500"/></p>
+<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1595503764/carte_visite_Front.png" alt="alexgwebdev" width="1920"/></p>
 
 <h1 align="center"> Good Moooorning Github </h1>
 <h2 align="center">Hi 👋, I'm Alex</h2>
