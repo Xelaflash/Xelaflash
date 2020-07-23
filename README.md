@@ -1,4 +1,4 @@
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github" width="420"/>
+<img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github" width="420"/>
 
 <h1 align="center"> Good Moooorning Github </h1>
 <h2 align="center">Hi 👋, I'm Alex</h2>
