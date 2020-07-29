@@ -15,32 +15,23 @@
 
 
 <p
- align="center"><img 
-src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
- alt="react" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
- alt="bootstrap" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
- alt="css3" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
- alt="html5" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
- alt="javascript" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
- alt="postgresql" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg"
- alt="rails" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg"
- alt="redis" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg"
- alt="ruby" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
- alt="sass" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
- alt="redux" width="50" height="50"/> <img 
-src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
- alt="webpack" width="50" height="50"/></p>
+ align="center">
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/react.png" alt="react" width="70" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596021748/bootstrap.png" alt="bootstrap" width="50" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/css-3.svg" alt="css3" width="50" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/html-5.svg"alt="html5" width="50" height="50"/>
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/javascript.svg" alt="javascript" width="50" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/postgresql.svg" alt="postgresql" width="50" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598080/rails2.png" alt="rails" width="50" height="50"/>
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596021937/redis.png" alt="redis" width="60"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/Ruby_logo.png" alt="ruby" width="50" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022043/sass.png" alt="sass" width="50" height="50"/> 
+ 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022239/Redux.png" alt="redux" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022235/webpack.png" alt="webpack" height="50"/>
+</p>
 <br><br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xelaflash" alt="xelaflash" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xelaflash&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
 alt="xelaflash" /> <p>
