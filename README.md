@@ -26,6 +26,7 @@ src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d0
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/html-5.svg"alt="html5" width="50" height="50"/>
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/javascript.svg" alt="javascript" width="50" height="50"/> 
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/postgresql.svg" alt="postgresql" width="50" height="50"/> 
+ <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598080/rails2.png" alt="rails" width="50"/>
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/Ruby_logo.png" alt="ruby" width="40" height="40"/> 
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022043/sass.png" alt="sass" width="50" height="50"/> 
