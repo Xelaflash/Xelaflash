@@ -16,6 +16,10 @@
 
 <p
  align="center">
+ <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="50" height="50"/>
+ <img 
+src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg"
+ alt="middleman" width="50" height="50"/>
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/react.png" alt="react" width="70" height="50"/> 
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596021748/bootstrap.png" alt="bootstrap" width="50" height="50"/> 
  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/css-3.svg" alt="css3" width="50" height="50"/> 
