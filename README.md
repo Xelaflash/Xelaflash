@@ -1,10 +1,6 @@
-<p align="center"><img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="github" width="420"/></p>
-
-<h1 align="center"> Good Moooorning Github </h1>
-<h2 align="center">Hi 👋, I'm Alex</h2>
-<h3 align="center">A web developer from 🌍, working from 🌎</h3>
-<br>
-<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1631038369/alexwebdevcolor.png" alt="alex_logo" width="100" height="100"/></p>
+<img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1631038369/alexwebdevcolor.png" alt="alex_logo" width="100" height="100"/>
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h2 align="center">A web developer from 🌍, working from 🌎</h2>
 <br>
 <br>
 
@@ -12,7 +8,6 @@
 - 👨 💻 All of my projects are available at [www.alexgwebdev.com](www.alexgwebdev.com)
 - 📫 How to reach me **contact@alexgwebdev.com**
 <br>
-
 
 <p
  align="center">
