@@ -12,22 +12,26 @@
 <h2 align="center">My Stack</h2>
 <p
  align="center">
- <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="50" height="50"/>
- <img 
-src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg"
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/javascript.svg" alt="javascript" width="50" height="50"/> 
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/react.png" alt="react" width="70" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="50" height="50"/>
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1632139863/next_white.png" alt="NextJs" height="50" width="70"/>
+ <br>
+ 
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/Ruby_logo.png" alt="ruby" width="40" height="40"/> 
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598080/rails2.png" alt="rails" width="50"/>
+  <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg"
  alt="middleman" width="50" height="50"/>
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/react.png" alt="react" width="70" height="50"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596021748/bootstrap.png" alt="bootstrap" width="50" height="50"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/css-3.svg" alt="css3" width="50" height="50"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/html-5.svg"alt="html5" width="50" height="50"/>
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/javascript.svg" alt="javascript" width="50" height="50"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/postgresql.svg" alt="postgresql" width="50" height="50"/> 
+ <br>
+ 
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/html-5.svg" alt="html5" width="50" height="50"/>
+  <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598642/css-3.svg" alt="css3" width="50" height="50"/> 
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022043/sass.png" alt="sass" width="50" height="50"/>
+ <br>
+ 
  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/>
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598080/rails2.png" alt="rails" width="50"/>
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598079/Ruby_logo.png" alt="ruby" width="40" height="40"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022043/sass.png" alt="sass" width="50" height="50"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022239/Redux.png" alt="redux" height="50"/> 
- <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1596022235/webpack.png" alt="webpack" height="60"/>
+ <img src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1543598643/postgresql.svg" alt="postgresql" width="50" height="50"/> 
+ 
 </p>
 <br><br>
 
