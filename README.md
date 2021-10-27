@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://res.cloudinary.com/dcf4y5ngp/image/upload/v1631038369/alexwebdevcolor.png" alt="alex_logo" width="100" height="100"/></p>
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h2 align="center">A web developer from 🌍  working from 🌎</h2>
 <br>
