@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h2 align="center">A web developer from 🌍  working from 🌎</h2>
 <br>
+
 🔭 I’m currently working on some stuff, come and have a look: 
  - 💻 You can check some of my projets at www.alexgwebdev.com
  - 📝 Consult my [Resume](https://alexgwebdev.notion.site/Alexandre-Gros-e06bc5d76e604dadaee7559f07500b30)
  - 👨🏻‍💻 Or visit my [Dev profile](https://alexgwebdev.notion.site/Alex-G-Front-end-Developer-63c64fbaa43747c3b3ec0212f2656c84)
-<br>
+
 📫 How to reach me? contact@alexgwebdev.com
 <br>
-<hr>
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexgwebdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexgwebdev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GhostXela)
-<br>
-<hr>
+<hr/>
+
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -51,7 +47,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br>
-<hr>
+<hr/>
+
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=xelaflash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
@@ -60,8 +57,17 @@
 <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=xelaflash&icon=0&color=12)](https://visitcount.itsvg.in)
-<hr>
-  ## 💰 You can help me by Donating
+
+<hr/>
+
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexgwebdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexgwebdev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@GhostXela)
+<br>
+<hr/>
+
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/givemethe.money) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
